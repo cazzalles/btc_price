@@ -1,4 +1,4 @@
-# Current BTC/USDT Price 
+## Current BTC/USDT Price 
 
 Just a simple project that shows the current BTC/USDT price. 
 
